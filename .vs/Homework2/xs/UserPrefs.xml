@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3BE61AA6-85B9-4872-B5BD-5588347A8FF7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.cs">
+    <Files>
+      <File FileName="PersonValidator.cs" Line="29" Column="3" IsPinned="True" />
+      <File FileName="Program.cs" Line="15" Column="19" />
+      <File FileName="Person.cs" Line="14" Column="2" />
+      <File FileName="PersonDataCapture.cs" Line="11" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework2" expanded="True">
+            <Node name="Homework2" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
